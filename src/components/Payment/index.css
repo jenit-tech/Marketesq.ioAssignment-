@@ -1,0 +1,106 @@
+.booking-one-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 50vh;
+}
+
+.booking-one-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: #f7f7f7;
+  width: 80%;
+  height: 40vh;
+  border-radius: 2px;
+  margin-bottom: 100px;
+  padding-top: 50px;
+}
+
+.booking-one-center {
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+  justify-content: space-between;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.payment-card-two {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-payment {
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+}
+
+.card-four {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff;
+  width: 79%;
+  padding: 15px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card-four-a,
+.card-four-b,
+.card-four-c,
+.card-four-e {
+  margin-right: 20px;
+}
+
+.card-four-heading {
+  font-size: 20px;
+}
+
+.card-four-d {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-four-description {
+  margin: 0;
+}
+
+.input-field {
+  background-color: transparent;
+}
+
+.booking-button {
+  background-color: #5097a4;
+  border: 0px;
+  padding: 20px;
+  color: #ffffff;
+  width: 150px;
+  font-weight: 600;
+  border-radius: 5px;
+  font-size: 17px;
+  align-self: center;
+}
+
+.pay-paragraph {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.checkin {
+  font-weight: bold;
+}
+
+.checkout {
+  font-weight: bold;
+}

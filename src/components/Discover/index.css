@@ -1,0 +1,103 @@
+.discover-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  
+  .discover-heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .discover-card-one {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .discover-card-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ffffff;
+    width: 300px;
+    height: 250px;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  
+  .discover-card-three {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .discover-card-image {
+    width: 60px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+  }
+  
+  .discover-card-name {
+    font-weight: 600;
+  }
+  
+  .golden-star {
+    color: #ffd700;
+  }
+  
+  .discover-card-five {
+    position: relative;
+    width: 300px;
+    height: 80vh;
+    background-image: url('https://thumbs.dreamstime.com/b/mountain-river-forest-north-cascades-national-park-washington-usa-73004270.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  
+  .overlay-card {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    padding: 0;
+  }
+  
+  .discover-card-five-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ffffff;
+    width: 100%;
+    height: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: none;
+  }
+  
+  .discover-card-six {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .discover-card-six-a {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ffffff;
+    width: 300px;
+    height: 250px;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  
